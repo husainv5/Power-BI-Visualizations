@@ -60,10 +60,10 @@ Each of these reports offers various interactive features, allowing users to exp
 ## Screenshots
 
 ### Volumes Monthly Detail Report
-![Volumes Monthly Detail Report](screenshots/volumes_monthly_detail_report.png)
+![Volumes Monthly Detail Report](https://raw.githubusercontent.com/husainv5/Power-BI-Visualizations/5be7f4622dd036bcad31fc11775156df7b6582cb/images/Volumes%20Monthly%20Detail.png)
 
 ### Weekly Trends Analysis
-![Weekly Trends Analysis](screenshots/weekly_trends_analysis.png)
+![Weekly Trends Analysis](https://raw.githubusercontent.com/husainv5/Power-BI-Visualizations/8fb9f8292e2cd4522ae9c8efc856fb3f3e516fda/images/Volumes%20Weekly.png)
 
 ---
 
