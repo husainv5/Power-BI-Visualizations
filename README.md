@@ -8,7 +8,7 @@ This repository contains a collection of Power BI visualizations developed durin
 ---
 
 ### 1. **Volumes Monthly Detail Report**
-![Volumes Monthly Detail Report](screenshots/volumes_monthly_detail_report.png)
+![Volumes Monthly Detail Report](screenshots/volumes_monthly_detail.png)
 - **Description:** This report provides an in-depth analysis of total sales volume and revenue over a three-year period (2022-2024). Users can examine monthly trends, state-based insights, and explore the data interactively.
   
 - **Key Features:**
@@ -23,11 +23,12 @@ This repository contains a collection of Power BI visualizations developed durin
     - **Main Page**: Shows high-level metrics like volume by category and type, volume and revenue by month, and volume by state and region.
     - **Map Page**: Offers a detailed state-by-state view with site-specific breakdowns when a state is selected.
   - **Interactivity:** Clicking a state in the map updates all other visuals to display only data related to that state.
+![Volumes Monthly Detail Map Page](screenshots/volumes_monthly_detail_map.png)
 
 ---
 
 ### 2. **Weekly Trends Analysis**
-![Weekly Trends Analysis](screenshots/weekly_trends_analysis.png)
+![Weekly Trends Analysis](screenshots/volumes_weekly.png)
 - **Description:** This report focuses on analyzing weekly volume trends over a three-year period, helping identify patterns, anomalies, and shifts in sales across different time frames.
   
 - **Key Features:**
