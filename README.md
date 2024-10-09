@@ -23,12 +23,12 @@ This repository contains a collection of Power BI visualizations developed durin
     - **Main Page**: Shows high-level metrics like volume by category and type, volume and revenue by month, and volume by state and region.
     - **Map Page**: Offers a detailed state-by-state view with site-specific breakdowns when a state is selected.
   - **Interactivity:** Clicking a state in the map updates all other visuals to display only data related to that state.
-![Volumes Monthly Detail Map Page](images/volumes_monthly_detail_map.png)
+![Volumes Monthly Detail Map Page](https://raw.githubusercontent.com/husainv5/Power-BI-Visualizations/blob/8fb9f8292e2cd4522ae9c8efc856fb3f3e516fda/images/Volumes%20Monthly%20Detail%20Map.png)
 
 ---
 
 ### 2. **Weekly Trends Analysis**
-![Weekly Trends Analysis](images/volumes_weekly.png)
+![Weekly Trends Analysis](https://raw.githubusercontent.com/husainv5/Power-BI-Visualizations/blob/8fb9f8292e2cd4522ae9c8efc856fb3f3e516fda/images/Volumes%20Weekly.png)
 - **Description:** This report focuses on analyzing weekly volume trends over a three-year period, helping identify patterns, anomalies, and shifts in sales across different time frames.
   
 - **Key Features:**
