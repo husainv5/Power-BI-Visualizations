@@ -8,7 +8,7 @@ This repository contains a collection of Power BI visualizations developed durin
 ---
 
 ### 1. **Volumes Monthly Detail Report**
-![Volumes Monthly Detail Report]([images/Volumes_Monthly_Detail.png](https://github.com/husainv5/Power-BI-Visualizations/blob/5be7f4622dd036bcad31fc11775156df7b6582cb/images/Volumes%20Monthly%20Detail.png))
+![Volumes Monthly Detail Report](https://raw.githubusercontent.com/husainv5/Power-BI-Visualizations/5be7f4622dd036bcad31fc11775156df7b6582cb/images/Volumes%20Monthly%20Detail.png)
 - **Description:** This report provides an in-depth analysis of total sales volume and revenue over a three-year period (2022-2024). Users can examine monthly trends, state-based insights, and explore the data interactively.
   
 - **Key Features:**
