@@ -16,7 +16,9 @@ This repository contains a collection of Power BI visualizations developed durin
     - **Monthly Revenue KPI**: Displays the total revenue for the selected month.
     - **Monthly Volume KPI**: Shows the total volume for the current month and compares it with the previous month’s volume for trend analysis.
   - **Stacked Column Chart:** Visualizes volume trends by month and category (e.g., type, subtype).
-  - **US Map:** Enables users to click on a specific state to filter other visuals, such as charts that show data by state or location.
+  - **US Map:** Enables users to click on a specific state to filter other visuals, such as charts that show data by state or location. When hovering over a state, a tooltip appears displaying:
+    - **State Name:** The name of the state you are hovering over.
+    - **Volume Over Time:** A small line graph showing the volume trends over time for the selected state, allowing users to quickly assess performance without having to click into the state.
   - **Navigation Panel:** A left-side panel allows users to easily switch between different pages of the report. 
     - **Main Page**: Shows high-level metrics like volume by category and type, volume and revenue by month, and volume by state and region.
     - **Map Page**: Offers a detailed state-by-state view with site-specific breakdowns when a state is selected.
